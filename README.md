@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Stephawk-5050
+- 👀 I’m interested in Coding etc
+- 🌱 I’m currently learning Pygame and game dev in python
